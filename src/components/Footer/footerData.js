@@ -16,7 +16,7 @@ const footerData = {
   familySites: [
     {
       name: "시흥 거모 호반써밋",
-      url: "https://cheongju-hanyanglips.com/",
+      url: "https://geomoho-hobansummit.com/",
     },
   ],
 
