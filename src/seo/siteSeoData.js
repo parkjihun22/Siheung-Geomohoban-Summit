@@ -184,7 +184,7 @@ const page = ({
 export const seoPages = {
   home: page({
     path: "/",
-    title: "시흥 거모 호반써밋",
+    title: "▪시흥 거모 호반써밋",
     description: siteSeo.defaultDescription,
     menu: "홈",
     priority: 1,
